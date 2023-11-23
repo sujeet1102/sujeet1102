@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sujeet1102
+- 👋 Hi, I’m @sujeet1102
 - ⚙️ Low Level Programmer
 - 👀 I’m interested in FPGA, Computer Architecture, Firmware and Robotics
 - 🌱 I’m currently learning Verilog and High Performance Computing
